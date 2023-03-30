@@ -4,6 +4,6 @@ Part of the Responsive Web Design Certification.
 
 # Screenshots
 <figure>
-  <img src="https://raw.githubusercontent.com/chanwaihan/Quiz/main/quiz-preview.jpg" title="Quiz Preview">
+  <img src="https://raw.githubusercontent.com/chanwaihan/Quiz/main/quiz-preview.jpg" alt="Quiz Preview" title="Quiz Preview">
   <figcaption>Figure 1: Quiz Preview</figcaption>
 </figure>
